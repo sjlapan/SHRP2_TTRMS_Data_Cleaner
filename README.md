@@ -11,18 +11,15 @@ This dashboard allows users to select up to two variables for comparison using v
 For more information on CDOT's implementation of SHRP2, see the report included in this repository.
 
 # Technologies
-Python 3.7.4
-Dash 1.16.0
-Heroku
+* Python 3.7.4
 
 ## Libraries
-plotly 4.9.0
-dash-core-components 1.12.0
-dash-html-components 1.1.1
-pandas 1.1.2
-datetime 4.3
-numpy 1.18.2
-Launch
+* plotly 4.9.0
+* pandas 1.1.2
+* datetime 4.3
+* numpy 1.18.2
+
+## Launch
 
 
 # Acknowledgments
