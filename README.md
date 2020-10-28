@@ -63,7 +63,7 @@ The application can be launched by calling the .PY file from the command line af
 
 ### Data Cleaner
 
-![Data Cleaner GUI](https://github.com/sjlapan/SHRP2_TTRMS_Data_Cleaner/tree/master/Images/ttrms_data_cleaner.png)
+![Data Cleaner GUI](/Images/ttrms_data_cleaner.png)
 
 ### Database Query Tool
 
