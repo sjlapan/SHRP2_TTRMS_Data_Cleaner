@@ -1,7 +1,7 @@
-SHRP2 Travel Time Reliability Monitoring System (Colorado)
+# SHRP2 Travel Time Reliability Monitoring System (Colorado)
 Explore the impacts of work zones, incidents, extreme weather, and special events on travel time reliability in Colorado.
 
-Overview
+# Overview
 This dashboard was developed by Navjoy Inc. in partnership with the Colorado Department of Transportation (CDOT) as part of the Strategic Highway Research Program 2 (SHRP2).
 
 Navjoy compiled travel time data for corridors with four sources of non-recurring congestion: active work zones, traffic incidents, special events, and severe weather. Travel time data were compiled from the RITIS Probe Data Analytics Massive Data Downloader, and impact dates, locations, and subtypes were compiled from various CDOT databases.
@@ -10,11 +10,12 @@ This dashboard allows users to select up to two variables for comparison using v
 
 For more information on CDOT's implementation of SHRP2, see the report included in this repository.
 
-Technologies
+# Technologies
 Python 3.7.4
 Dash 1.16.0
 Heroku
-Libraries
+
+## Libraries
 plotly 4.9.0
 dash-core-components 1.12.0
 dash-html-components 1.1.1
@@ -24,5 +25,5 @@ numpy 1.18.2
 Launch
 
 
-Acknowledgments
+# Acknowledgments
 All code written by Stewart LaPan. The SHRP2 final report was composed by Justin Healey and Devin Joslin. Special thanks to Ethan Alexander and Marc Russell for their data collection efforts, and to Emily Gerson and Jim MacCrea for their assistance with editing and formatting of the final report. Many thanks to CDOT, the Federal Highway Adminstration, and the Denver Regional Council of Governments for all guidance and feedback provided.
