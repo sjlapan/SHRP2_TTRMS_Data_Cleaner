@@ -65,9 +65,19 @@ The application can be launched by calling the .PY file from the command line af
 
 ![Data Cleaner GUI](/Images/ttrms_data_cleaner.png)
 
+
+![Travel Time Visualization](/Images/travel_time_plot.png)
+
+![Travel Time CDF](/Images/travel_time_cdf.png)
+
 ### Database Query Tool
+![Database Query Tool](/Images/ttrms_data_query.png)
 
 ### Graph Generator
+![Graph Generator](/Images/ttrms_chart_generator.png)
+
+![Violin Plot](/Images/violin_plot.png)
+![CDF Comparison](/Images/percent_change_cdf.png)
 
 ### Database Cleaner
 
