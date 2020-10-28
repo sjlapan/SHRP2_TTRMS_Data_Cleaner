@@ -2,10 +2,10 @@
 CDOT's implementation of the Strategic Highway Research Program 2 (SHRP2) Travel Time Reliability Monitoring System (TTRMS).
 
 ## Table of Contents
-* [Overview] (#overview)
-* [Technologies] (#technologies)
-* [User Guide] (#user-guide)
-* [Acknowledgments] (#acknowledgements)
+* [Overview] (https://github.com/sjlapan/SHRP2_TTRMS_Data_Cleaner/blob/master/README.md#overview)
+* [Technologies] (https://github.com/sjlapan/SHRP2_TTRMS_Data_Cleaner/blob/master/README.md#technologies)
+* [User Guide] (https://github.com/sjlapan/SHRP2_TTRMS_Data_Cleaner/blob/master/README.md#user-guide)
+* [Acknowledgments] (https://github.com/sjlapan/SHRP2_TTRMS_Data_Cleaner/blob/master/README.md#acknowledgements)
 
 ## Overview
 This application was developed by Navjoy Inc. in partnership with the Colorado Department of Transportation (CDOT).
